@@ -18,10 +18,6 @@ It will test few scenarios and test if outcome is correct and expected.
 
 **API**: 
 
- 1. Create Metric:
-	 asdf
- 2. Post value for a Metric:
- 3. Get Summary statistics for a Metric:
 
 |                  |                        | 
  ----------------- | ---------------------------- | 
